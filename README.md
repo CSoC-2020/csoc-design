@@ -1,4 +1,4 @@
-# Welcome to CSoC-Desing
+# Welcome to CSoC-Design
 
  A repository consisting of all the designs, mockups.
  
