@@ -1,7 +1,12 @@
 # Welcome to CSoC-Desing
 
-
  A repository consisting of all the designs, mockups.
+ 
+ # Guidelines:
+
+1. All the issues from this repo are of level easy
+2. One can solve max 3 issues from here
+3. Mention the issue no when making a PR
 
 ## Steps to follow :scroll:
 
