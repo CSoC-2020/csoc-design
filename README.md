@@ -2,7 +2,7 @@
 
  A repository consisting of all the designs, mockups.
  
- # Guidelines:
+ ## Guidelines:
 
 1. All the issues from this repo are of level easy
 2. One can solve max 3 issues from here
